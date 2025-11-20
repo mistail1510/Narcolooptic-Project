@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dd996ed6e7f07b444b909c3bf3a31be9, type: 3}
+  m_Name: "Pi\xE8ces"
+  m_EditorClassIdentifier: Assembly-CSharp::Object1
+  isKey: 1
+  isUsed: 1
+  objImage: {fileID: -5619150752979459227, guid: 3f1e60f86bfc99442a261c6fed521d9f, type: 3}
+  AudioPickup: {fileID: 8300000, guid: e2ec6cca2913d974c80c132350a5ff21, type: 3}
